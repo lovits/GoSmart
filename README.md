@@ -1,30 +1,5 @@
-读取 [](file:///Users/qianye/Downloads/%E6%89%BE%E5%B7%A5%E4%BD%9C/Go/%E9%A1%B9%E7%9B%AE/GoAI/V1/GopherAI-v1/main.go)
-
-读取 [](file:///Users/qianye/Downloads/%E6%89%BE%E5%B7%A5%E4%BD%9C/Go/%E9%A1%B9%E7%9B%AE/GoAI/V1/GopherAI-v1/router/router.go)
-
-读取 [](file:///Users/qianye/Downloads/%E6%89%BE%E5%B7%A5%E4%BD%9C/Go/%E9%A1%B9%E7%9B%AE/GoAI/V1/GopherAI-v1/model/user.go)
-
-读取 [](file:///Users/qianye/Downloads/%E6%89%BE%E5%B7%A5%E4%BD%9C/Go/%E9%A1%B9%E7%9B%AE/GoAI/V1/GopherAI-v1/model/message.go)
-
-读取 [](file:///Users/qianye/Downloads/%E6%89%BE%E5%B7%A5%E4%BD%9C/Go/%E9%A1%B9%E7%9B%AE/GoAI/V1/GopherAI-v1/vue-frontend/src/router/index.js#1-1)，行 1 到 50
-
-Ran terminal command:  ls Dockerfile
-Completed with input:  ls Dockerfile
-
-读取 [](file:///Users/qianye/Downloads/%E6%89%BE%E5%B7%A5%E4%BD%9C/Go/%E9%A1%B9%E7%9B%AE/GoAI/V1/GopherAI-v1/router/AI.go)
-
-读取 [](file:///Users/qianye/Downloads/%E6%89%BE%E5%B7%A5%E4%BD%9C/Go/%E9%A1%B9%E7%9B%AE/GoAI/V1/GopherAI-v1/router/Image.go)
-
-读取 [](file:///Users/qianye/Downloads/%E6%89%BE%E5%B7%A5%E4%BD%9C/Go/%E9%A1%B9%E7%9B%AE/GoAI/V1/GopherAI-v1/router/user.go)
-
-这是一个非常完整的全栈 AI 项目。经过仔细分析代码结构和业务逻辑，我为您重新整理了一份详细的 README.md 文档。
-
-这份文档包含了**项目架构、详细的 API 接口说明、环境配置指南以及目录结构解析**，可以直接用于 GitHub 仓库的主页。
-
-您可以使用以下内容覆盖项目根目录下的 README.md：
-
 ```markdown
-# GoSmart (GopherAI)
+# GoSmart 
 
 [![Go](https://img.shields.io/badge/Go-1.24+-00ADD8?logo=go&logoColor=white)](https://golang.org/)
 [![Vue](https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
