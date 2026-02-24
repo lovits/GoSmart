@@ -1,11 +1,6 @@
-```markdown
+
 # GoSmart 
 
-[![Go](https://img.shields.io/badge/Go-1.24+-00ADD8?logo=go&logoColor=white)](https://golang.org/)
-[![Vue](https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Gin](https://img.shields.io/badge/Gin-v1.9-00ADD8?logo=go&logoColor=white)](https://github.com/gin-gonic/gin)
-[![GORM](https://img.shields.io/badge/GORM-v1.25-00ADD8?logo=go&logoColor=white)](https://gorm.io/)
-[![ONNX Runtime](https://img.shields.io/badge/ONNX-Runtime-blue?logo=onnx&logoColor=white)](https://onnxruntime.ai/)
 
 GoSmart 是一个基于 **Go (Gin)** 和 **Vue 3** 构建的现代化 AI 全栈应用平台。它集成了大语言模型（LLM）对话能力与本地图像识别功能，采用高并发、低耦合的架构设计，支持多种 AI 模型后端。
 
